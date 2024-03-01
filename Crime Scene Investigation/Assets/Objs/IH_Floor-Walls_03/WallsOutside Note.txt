@@ -1,0 +1,13 @@
+This model is on the outside of the walls to block off
+the light in Unity.
+It is not unwrapped or textured. Its only purpose is to
+block off outside light.
+
+If there is a different fix for the lights.
+Then you can use that instead.
+
+
+Update:
+I closed off the space between the inner and outer
+walls with window and door holes.
+(only doors leading outside the building)

@@ -1,0 +1,2 @@
+The glass needs its own material with the same
+textures plus transparency/opacity.
